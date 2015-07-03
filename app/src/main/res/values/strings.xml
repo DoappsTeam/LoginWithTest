@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginWithTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">442630429253125</string>
+
+    <string name="full_name">Apellidos y nombres</string>
+    <string name="email">Correo electrónico</string>
+</resources>
